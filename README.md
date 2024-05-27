@@ -1,3 +1,7 @@
+## COURSE 2024 NOTES 
+
+This is the Particle Filter used to localize the car within the map. Very little changes have been made to the original code, but the parameters have been tuned. Be sure to read the installation part if you're having trouble. The RaspberryPi5 does NOT support CUDA. 
+
 # Particle Filter Localization
 
 This code implements the MCL algorithm for the RACECAR. 
